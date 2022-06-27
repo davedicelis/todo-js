@@ -1,16 +1,5 @@
-# Webpack Starter
+# TODO APP
 
 
-Este es el proyecto inical para crear aplicaciones utilizando webpack.
+Este es una App para escribir una la lista de tareas diarias y marcar las realizadas
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recuerden:
-
-```
-npm run build 
-```
